@@ -286,6 +286,7 @@ fun Profile() {
                 Text(text = "Edit Profile", fontSize = 14.sp, color = Color(0xFF4C9EEB))
             }
 
+
         }
         Column(
             modifier = Modifier
